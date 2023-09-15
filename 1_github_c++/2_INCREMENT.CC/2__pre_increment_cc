@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int a=5;
+    
+    cout<<" PRE INCREMENT  "<<" (++a) : "<<++a<<endl;
+    cout<<"AFTER PRE INCREMENT "<<a<<endl;
+    
+    
+}
